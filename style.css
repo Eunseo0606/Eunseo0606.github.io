@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: ssystem-ui, -apple-system, sans-serif;
+    font-family: system-ui, -apple-system, sans-serif;
     background-color:#f5f5f7;
     color:#000000;
     line-height: 1.6;
@@ -150,7 +150,7 @@ body {
         padding: 20px 16px 18px;
     }
 
-    .sectin-card {
+    .section-card {
         padding: 20px 16px 18px;
     }
 }
